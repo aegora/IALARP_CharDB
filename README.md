@@ -1,0 +1,1 @@
+== This Project is designed to be a character database storage system for the Inritius Alliance LARP group in Vancouver, BC, Canada.
